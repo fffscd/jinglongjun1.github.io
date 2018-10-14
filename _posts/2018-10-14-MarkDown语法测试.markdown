@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "Hello World"
+subtitle:   " 基础MarkDown语法构建博客"
+date:       2018-10-14 10:00:00
+author:     "Hux"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+# 前言
+
+
+MarkDown的基础语法再次不提，只说明如何使用MD语法构建博客。基本语法与Markdown一致
+
+
+---
+
+#  标题测试
+
+MarkDown语法子标题：
+* 1
+* 2
+* 3 
+
+
+代码测试
+```
+这是一段测试代码
+
+```
